@@ -7,11 +7,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Transit
-  - Public Transportation
-  - GTFS
-  - Commuter Rail
   - Chicago
+  - Commuter Rail
+  - GTFS
+  - Public Transportation
+  - Transit
 url: >-
   https://raw.githubusercontent.com/api-evangelist/metra/refs/heads/main/apis.yml
 created: '2025-02-06'
@@ -28,9 +28,9 @@ apis:
     humanURL: https://metra.com/metra-gtfs-api
     baseURL: https://gtfsapi.metrarail.com
     tags:
-      - Transit
-      - GTFS
       - Commuter Rail
+      - GTFS
+      - Transit
     properties:
       - type: Documentation
         url: https://metra.com/metra-gtfs-api
