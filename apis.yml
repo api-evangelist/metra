@@ -35,6 +35,8 @@ apis:
       - type: Documentation
         url: https://metra.com/metra-gtfs-api
 common:
+  - type: DomainSecurity
+    url: security/metra-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/metra
   - type: Portal
