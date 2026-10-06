@@ -38,7 +38,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/metra/refs/heads/main/apis.yml
 created: '2025-02-06'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: metra:metra-gtfs-api
@@ -58,6 +58,8 @@ apis:
       - type: Documentation
         url: https://metra.com/metra-gtfs-api
 common:
+  - url: https://www.metra.com:443/news
+    type: Blog
   - type: DomainSecurity
     url: security/metra-domain-security.yml
   - type: LinkedIn
