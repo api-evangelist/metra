@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "metra",
+    "captured_at": "2026-10-11T191211",
+    "source_url": "https://metra.com/metra-gtfs-api",
+    "source_type": "Portal",
+    "file": "metra-2026-10-11T191211.png",
+    "bytes": 112696,
+    "capture": "playwright-local"
+  }
+]
